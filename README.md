@@ -2,6 +2,9 @@
 
 # Homework Scientific Computing 2020/03/18
 
+Entropie!
+
+
 This repository is an empty container for your homeworks for the course 731139 at
 [BOKU](boku.ac.at/). Fork the repository and commit and push your solutions to your fork. The
 repository for the lecture can be found
