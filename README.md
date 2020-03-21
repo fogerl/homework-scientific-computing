@@ -4,7 +4,7 @@ This is just a test!
 
 # Homework Scientific Computing 2020/03/18
 
-Entropie!
+Entropie! hihi
 
 
 This repository is an empty container for your homeworks for the course 731139 at
