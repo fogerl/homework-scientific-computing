@@ -1,5 +1,7 @@
 ![MIT license](https://img.shields.io/github/license/inwe-boku/homework-scientific-computing)
 
+This is just a test!
+
 # Homework Scientific Computing 2020/03/18
 
 This repository is an empty container for your homeworks for the course 731139 at
