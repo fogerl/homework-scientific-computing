@@ -1,0 +1,6 @@
+print("Hello World!")
+print ("Hello Gunther!")
+print("Hello Lukas!")
+print("Hello Anna!")
+print("How are you all doing?")
+print("I am sending you a virtual smile :)")
